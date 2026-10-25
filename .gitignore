@@ -1,0 +1,36 @@
+# Python bytecode and environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Packaging/build outputs (keep generated binaries out of normal source commits)
+build/
+dist/
+*.spec
+
+# Local TraceX data and user-generated outputs
+tracex_cases.db
+tracex_cases.db-journal
+tracex_cases.db-wal
+tracex_cases.db-shm
+reports/
+exports/
+evidence/
+saved_cases/
+*.report
+*.report.txt
+*.json
+
+# Editor / operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets and local configuration
+.env
+.env.*

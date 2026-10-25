@@ -1,0 +1,5 @@
+# TraceX source uses Python standard-library modules only.
+# No pip packages are required to run tracex.py.
+#
+# PyInstaller is needed only if you want to build a Windows executable:
+# python -m pip install pyinstaller
