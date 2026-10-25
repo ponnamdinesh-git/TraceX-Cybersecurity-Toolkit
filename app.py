@@ -231,4 +231,3 @@ elif page == "About TraceX":
 
 st.divider()
 st.caption("TraceX | Educational Cybersecurity Project")
-```
