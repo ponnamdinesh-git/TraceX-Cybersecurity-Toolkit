@@ -1,4 +1,3 @@
-```python
 import hashlib
 import re
 import socket
